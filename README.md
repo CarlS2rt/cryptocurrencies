@@ -8,4 +8,6 @@ The analysis utilizes unsupervised machine learning to create groups using a clu
 
 
 
-![]()
+![https://raw.githubusercontent.com/CarlS2rt/cryptocurrencies/main/bokeh_plot.png](https://raw.githubusercontent.com/CarlS2rt/cryptocurrencies/main/bokeh_plot.png)
+
+![https://raw.githubusercontent.com/CarlS2rt/cryptocurrencies/main/newplot.png](https://raw.githubusercontent.com/CarlS2rt/cryptocurrencies/main/newplot.png)
